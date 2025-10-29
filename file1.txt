@@ -1,4 +1,12 @@
 This is a new feature
+<<<<<<< HEAD
 12345555
 asdasdasdasd
 oowieee
+=======
+sdv
+sdvsdv
+vsd
+vsdv
+
+>>>>>>> feature/new-feature
